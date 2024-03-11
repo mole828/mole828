@@ -11,4 +11,4 @@
 
 ![My Skills](https://skillicons.dev/icons?i=linux,git,github)
 
-![My Skills](https://skillicons.dev/icons?i=mongo,postgresql)
+![My Skills](https://skillicons.dev/icons?i=redis,mongo,postgresql)
