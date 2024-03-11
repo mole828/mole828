@@ -7,4 +7,8 @@
 
 ### 
 🌟 **My Skills & Tools**  
-![My Skills](https://skillicons.dev/icons?i=py,go,rust,git,github,linux,mongo,postgre)
+![My Skills](https://skillicons.dev/icons?i=py,go,rust)
+
+![My Skills](https://skillicons.dev/icons?i=linux,git,github)
+
+![My Skills](https://skillicons.dev/icons?i=mongo,postgresql)
