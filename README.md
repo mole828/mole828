@@ -7,7 +7,7 @@
 
 ### 
 🌟 **My Skills & Tools**  
-![My Skills](https://skillicons.dev/icons?i=kt,py,go,cs,js)
+![My Skills](https://skillicons.dev/icons?i=kotlin,py,go,cs,js)
 
 ![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github)
 
